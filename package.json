@@ -1,0 +1,17 @@
+{
+	"name": "roadsigns",
+	"version": "1.0.0",
+	"description": "hapi v17.x.x http status code utility module",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [
+		"hapi",
+		"http",
+		"status",
+		"code"
+	],
+	"author": "Ben Lanning <blanning@all-mode.com>",
+	"license": "ISC"
+}
